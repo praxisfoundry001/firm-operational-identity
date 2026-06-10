@@ -1,0 +1,500 @@
+﻿The Firm as Operational Identity
+A Structural Relocation of the Theory of the Firm
+1. The Open Wound
+The firm is one of the central objects of economic life, yet the theory of the firm remains unsettled in a peculiar way. The field does not lack theories. It has many. The firm has been explained as a response to transaction costs, as an alternative to market exchange, as a governance structure, as a nexus of contracts, as a legal person, as an asset-control arrangement, as a hierarchy, as a unit of account, and as an organization of capabilities, routines, and productive capacity.
+The abundance of theories is not itself a problem. Real objects often require multiple descriptions. The problem is that the theories do not merely describe different features of the same object. They often compete as though one surface must become the firm’s essence.
+If the firm is treated primarily as an alternative to market exchange, then the exchange boundary carries the object. If the firm is treated primarily as a nexus of contracts, then obligation instruments carry the object. If the firm is treated primarily as an asset-control arrangement, then residual rights or ownership carries the object. If the firm is treated primarily as a legal person, then recognition and claim-travel carry the object. If the firm is treated primarily as an organization of routines or capabilities, then productive capacity carries the object.
+Each account identifies something real. None is trivial. But each becomes unstable when asked to bear the full object alone.
+That is the wound.
+The firm appears wherever economic life requires more than isolated exchange, more than open obligation, more than available labor, more than asset ownership, more than legal registration, and more than a record. It appears where these surfaces become states of the same continuing operational “it.” A sale, a loan, a hire, a contract, an asset, a record, and a productive routine can all matter to a firm because each can update the condition of the same object. But none of those surfaces is, by itself, the firm.
+The difficulty has persisted because the firm is not a first-order economic field. It is not exchange. It is not credit. It is not labor. It is a higher-order object that becomes possible only when those fields can be held together as one continuing operational identity.
+This paper names that object.
+A firm is the continuing operational identity under which transactions, obligations, and labor engagements update the same answerability-bearing “it” — meaning an “it” whose later action must account for those updates as carried state, without being mechanically determined by them.
+That sentence is intentionally spare. It does not deny the importance of markets, contracts, assets, law, accounting, hierarchy, governance, or productive routines. It explains why all of them can matter without any one of them becoming the firm itself.
+A transaction changes the firm’s transactional position. An obligation changes its burden or claim condition. A labor engagement changes its deployment condition. These are not merely adjacent events. When they belong to a firm, they become updates to the same continuing object. Later action by that object cannot proceed as though those updates were absent, even though the update does not dictate in advance exactly what the later action must be.
+That is the object-level fact the major theories have been touching from different sides.
+The aim of this paper is therefore relocation, not dismissal. The classic theories of the firm are not treated as errors to be swept away. They are treated as surface-accurate descriptions of a higher-order economic object that has not yet been precisely located.
+This is a conceptual intervention in the theory of the firm. It does not offer a new empirical model of firm behavior. It offers a structural object that lets existing theories be placed more precisely. 
+The problem is not that economists failed to see the firm.
+The problem is that the field has preserved many accurate surface descriptions without a derived account of the object those surfaces belong to.
+2. The Relocation Map
+A useful theory of the firm must do more than propose another surface. It must explain why the existing surfaces have been so compelling.
+A transaction-cost account is compelling because firms do alter the boundary between market exchange and organized activity. Some interactions that could in principle be coordinated through market exchange are instead held within the operational structure of a firm. That is real. But it is the exchange-facing surface of the firm, not the whole object.
+A governance account is compelling because firms do coordinate, direct, monitor, and constrain activity. They reduce some forms of uncertainty, impose some order on production and contracting, and create internal decision procedures. That is real. But governance describes how the object manages internal and external constraint; it does not by itself define the object whose constraints are being managed.
+A nexus-of-contracts account is compelling because firms are thick with contracts. Employment agreements, supply agreements, financing agreements, leases, licenses, service agreements, insurance arrangements, and many other instruments help organize firm life. That is real. But a contract is an instrument. A nexus of contracts can describe the strands of obligation. It does not by itself derive the object whose state those strands update.
+A property-rights account is compelling because control over assets matters. Residual control rights matter especially where future contingencies cannot be fully specified in advance. That is real. But asset control is not the firm in full. A pool of assets may exist without an operational identity that holds exchange, credit, and labor together. Asset control is one way the firm’s future action-space is structured; it is not the whole object.
+A legal-entity account is compelling because firms often operate through legally recognized persons or entities. Claims can be asserted by, against, and through such entities. Obligations can travel. Liability can attach. Ownership can be recorded. That is real. But legal recognition is not enough. A dormant shell may possess legal personality without functioning as a firm in the full structural sense. Conversely, an informal enterprise may function as a firm before formal legal status has thickened its recognition.
+An accounting-entity account is compelling because the firm requires a recordable state. Its transactions, obligations, assets, liabilities, payroll, revenues, and costs must be attributable to something. That is real. But the record is not the firm. The record carries the firm’s state. The firm is the operational identity whose state is being carried.
+A capability or routines account is compelling because firms preserve organized productive capacity across time. They remember how to do things. They routinize. They train. They adapt. They deploy labor, knowledge, tools, and coordination in ways that persist beyond a single transaction. That is real. But productive capacity alone is not enough. A team, craft network, guild, or temporary productive association may possess capacity without yet sustaining the full cross-field answerability of a firm.
+A hierarchy or authority account is compelling because many firms direct labor internally. They issue instructions, allocate tasks, monitor performance, and structure decision rights. That is real. But hierarchy is not necessary in the same form across all firms. A worker cooperative, partnership, or flat organization may still be a firm if transactions, obligations, and labor engagements update the same continuing operational identity.
+The relocation map therefore looks like this:
+Existing account
+	Real surface identified
+	Structural relocation
+	Transaction-cost theory
+	Market / firm boundary
+	Exchange-facing surface
+	Governance theory
+	Coordination and constraint management
+	Internal management of cross-field state
+	Nexus of contracts
+	Obligation instruments
+	Credit-facing and contract-bearing surface
+	Property-rights theory
+	Residual control and asset authority
+	Resource-holding / RH, claim-status, and firm-boundary interaction 
+	Legal-entity theory
+	Recognized locus of claims
+	Recognition and claim-travel surface
+	Accounting-entity view
+	Unit of account and record continuity
+	Integrated-record substrate: the support layer that carries firm-state without being the firm itself 
+	Capability / routines theory
+	Organized productive capacity
+	Deployment surface and continuity of capacity
+	Hierarchy / authority theory
+	Direction of labor and decision rights
+	Internal direction of deployment condition
+	The purpose of this map is not to flatten the theories into one another. It is to show why they have all had staying power. Each identifies a real surface. Each sees something that genuinely belongs to firm life. The problem begins only when a surface is mistaken for the whole object.
+The firm is not the exchange boundary alone, because firms can persist through major changes in what they buy, sell, outsource, internalize, or transact. The firm is not the contract nexus alone, because the question remains what makes those contracts update the same object rather than remain independent bilateral obligations. The firm is not asset ownership alone, because asset pools can exist without operational integration, and firms can operate with few owned assets. The firm is not legal personality alone, because legal shells may lack operational life, and operational enterprises may precede legal thickening. The firm is not accounting continuity alone, because the record carries a state it does not itself generate. The firm is not hierarchy alone, because authority structures vary. The firm is not productive capacity alone, because capacity must be held as the deployment condition of a continuing operational identity.
+The firm is the object that makes these surfaces jointly answerable.
+That is the relocation this paper proposes.
+It does not ask the reader to choose one classic account and discard the others. It asks a different question: what kind of object must exist for all of these accounts to be locally right?
+The answer is a higher-order operational identity.
+More precisely, a firm is a ladder-conditioned economic object — a higher-order object made possible only after lower-order fields can already hold together — namely, the cross-field-state-bearing operational identity under which exchange, credit, and labor are bounded in cross-propagating relation, so that valid updates on one surface become answerable constraints on the same continuing identity across transactional position, obligation condition, and deployment condition.
+The rest of the paper defends that claim.
+It begins with the sharpest objection: perhaps there is no object beyond the nexus. Perhaps the firm is only the contract bundle, and “operational identity” is only a name for that bundle.
+That objection must be faced directly. It is the point at which the relocation either holds or fails.
+3. The Object Problem
+The strongest objection to the account proposed here is simple: perhaps there is no firm-object beyond the relations that compose it.
+If the firm is said to be the “same continuing it” across transactions, obligations, and labor engagements, the critic may ask what that “it” is before those relations are described. If the answer is merely that the firm is whatever carries those relations, the definition risks circularity. The firm would be the identity that carries firm-state because it is the identity that carries firm-state. That would not be a definition. It would be a label.
+The objection matters. A useful theory of the firm must not smuggle the firm into its own explanation. It must identify what makes the operational identity available without pretending that the identity exists as a mysterious substance behind contracts, assets, labor, records, or legal forms.
+The answer is that the operational identity is not prior substance. It is not a metaphysical bearer hiding behind economic relations. It is also not a mere shorthand for current contracts. It is constituted by the accumulated holdability of prior field-states across exchange, credit, and labor, carried forward such that later updates must answer to them as states of the same continuing object.
+That sentence requires unpacking.
+A firm is not created by any single transaction. A sale may alter position, but it does not by itself create a firm. A loan may create obligation, but it does not by itself create a firm. A labor engagement may create available capacity, but it does not by itself create a firm. A legal registration may create recognized status, but it does not by itself create a firm. A set of accounts may record continuity, but it does not by itself create a firm.
+The firm appears when these surfaces are held in cross-propagating relation as one operational identity.
+In such a condition, a transaction does not merely close between parties. It changes the transactional position of the continuing object. A loan does not merely bind borrower and lender. It changes the obligation condition of that same object. A labor engagement does not merely connect task and worker. It changes the deployment condition of that same object. These updates are not isolated. They become answerable to one another because later action on any surface must account for the carried state of the others.
+This is the object problem. The firm is not one relation, one instrument, one asset, one record, or one legal status. It is the held condition under which many such relations can update the same operational state.
+That is why the word “identity” is necessary but dangerous. Used loosely, it can sound like a name for whatever the theorist has failed to explain. Used precisely, it identifies continuity of carried state across changing surfaces. The firm is an identity only in the operational sense: it is the continuing object whose transactional position, obligation condition, and deployment condition remain mutually answerable through time.
+This also explains why the firm can change without ceasing to be the same firm. A firm may change ownership, name, legal form, asset mix, accounting system, managers, workers, suppliers, customers, or markets without necessarily dissolving. These changes matter, but they are not automatically identity-ending. The question is whether cross-field answerability continues through one operational state.
+A firm may sell assets and remain the same firm. It may borrow and remain the same firm. It may hire, fire, outsource, restructure, reorganize, or shift strategy and remain the same firm. It may even change legal form and remain structurally continuous if the carried field-states remain answerable as states of one operational object.
+Conversely, a legal entity may remain on paper after the firm has failed structurally. A shell may retain registration, accounts, and claim-status while no longer holding exchange, credit, and labor in cross-propagating relation. The name remains. The operational identity does not.
+The firm is therefore neither pure continuity nor mere change. It is a temporal held condition. It persists only so long as updates across its primary surfaces continue to carry as states of the same operational object.
+This lets us distinguish three cases that are often blurred.
+First, there is firm continuity. The firm changes, but the same operational identity remains answerable across exchange, credit, and labor.
+Second, there is firm transformation. The firm’s internal structure, ownership, legal form, or operating model changes deeply, but cross-field answerability continues strongly enough that the same operational “it” remains.
+Third, there is firm failure. Exchange, credit, and labor relations may continue in some form, but they no longer update the same operational identity. The fields may remain. The firm does not.
+That is the object this paper means by “firm.”
+It is not a hidden essence. It is not a label for a bundle. It is not legal personality by another name. It is not a unit of account alone. It is the operational identity constituted by carried, answerable, cross-field state.
+The next question is whether this account survives the most direct rival: the claim that the firm is only a nexus of contracts.
+4. Why the Nexus Is Not Enough
+The nexus-of-contracts view is the most important objection because it does not merely identify one more surface of the firm. It challenges the need for a firm-object at all.
+On this view, what appears to be the firm is a network of contractual relations among participants. The “firm” is not a thing over and above those relations. It is a convenient legal or analytical shorthand for the nexus. The mistake, according to this view, is to reify the firm: to treat as an entity what is better understood as a set of contracts.
+This objection is serious because it is partly right.
+Firms are saturated with contracts. Employment agreements, supply contracts, debt instruments, leases, licenses, purchase orders, service agreements, insurance arrangements, and governance documents all help organize firm life. Much of what a firm does can be traced through contractual instruments. Any account of the firm that ignores this is weak.
+The present account does not deny the nexus. It relocates it.
+Contracts are real instruments of firm organization. They define obligations, permissions, claims, exclusions, entitlements, remedies, and expectations. They are among the major ways firm-state becomes specified and carried. But the existence of contracts does not by itself explain what makes them cohere as updates to the same operational object.
+A contract can bind A and B without creating a firm. A supply agreement can create reciprocal duties without generating a cross-field operational identity. A debt instrument can create forward-bearing obligation without making the borrower a firm. An employment agreement can engage labor without defining the entire operational object to which that labor belongs. A set of bilateral contracts can exist side by side without becoming one firm.
+So the decisive question is not whether contracts exist.
+The decisive question is: what makes many instruments update the same “it”?
+The nexus view can describe the strands. It does not, by itself, derive the object whose state the strands update.
+That is the central difference.
+A contractarian account may say that the firm is the nexus itself. But this answer leaves unexplained why the nexus is one nexus rather than many adjacent bilateral obligations. It assumes the coherence that must be accounted for. It presupposes that the contracts belong together as the contractual structure of one firm, but the question is precisely what makes that belonging more than classification from the outside.
+The operational-identity account answers differently. Contracts belong to a firm when they are directed at and received within a continuing operational identity whose transactional position, obligation condition, and deployment condition are changed by them. The contract does not become firm-level merely because it exists. It becomes firm-level when it updates the answerable state of the same operational object.
+This distinction is easy to miss because many firm contracts are legally attached to a named entity. But legal attachment is not the whole answer. A legal entity can hold contracts without functioning as a firm in the full structural sense. A shell company can have agreements, accounts, assets, and legal status while lacking the cross-field operational identity that makes exchange, credit, and labor answerable through one continuing object.
+The reverse is also possible. An informal enterprise may function as a firm before formal legal recognition thickens its claim-status. Participants may transact, incur obligations, deploy labor, keep records, and preserve a continuing operational identity even before law fully stabilizes that identity as a formal entity. Legal recognition matters, but it is not the origin of the firm-object.
+This is why the nexus view remains surface-accurate but object-incomplete.
+It sees contracts because contracts are visible, documentable, enforceable, and central. It sees that many firm relations are voluntarily structured through instruments rather than imposed by some mystical entity. It is right to resist treating the firm as a substance independent of its relations.
+But it goes too far if it concludes that there is no higher-order object to derive.
+The firm is not a substance beyond the nexus. But neither is it exhausted by the nexus. It is the operational identity under which contractual and non-contractual updates become answerable states of one continuing economic object.
+That difference matters in ordinary cases.
+Suppose a firm signs a supply contract. That contract does not merely create an isolated bilateral relation. It may alter the firm’s production schedule, credit exposure, cash-flow position, inventory strategy, labor deployment, pricing, and future contracting capacity. The contract becomes part of the firm’s state because later action on other surfaces must answer to it.
+Suppose the same firm takes on debt. The debt does not merely create a lender-borrower relation. It alters what the firm can invest, hire, produce, sell, risk, or distribute. It may constrain future exchange, affect labor deployment, and alter asset strategy. The obligation is not merely one strand. It becomes a condition the same operational object must carry.
+Suppose the firm hires workers. The labor engagement does not merely form a contract between employer and employee. It alters the firm’s deployment condition: what capacity is available, what work can be undertaken, what commitments can be made, what obligations can be satisfied, and what exchanges can be pursued. Again, the update becomes answerable across surfaces.
+This cross-field answerability is not added after the contracts are complete. It is what makes the contracts firm-level in the first place.
+A mere nexus of contracts could in principle remain a set of parallel obligations. A firm requires more: the carried state of one continuing operational identity that those obligations update.
+The distinction also explains why contract changes need not destroy firm identity. A firm can replace suppliers, refinance debt, change employment arrangements, renegotiate leases, and alter governance documents while remaining the same firm if the carried operational identity continues. If the firm were simply the current nexus, every major contractual reconfiguration would threaten identity. But in practice, firms often persist through contract turnover because the operational “it” carries across those changes.
+The same distinction explains why contracts alone cannot distinguish firm continuity from firm failure. A failing firm may still have contracts. It may still owe money, employ people, hold leases, maintain accounts, and appear in legal records. Yet if those relations no longer update one coherent operational state, the firm has failed structurally even if some contractual strands remain.
+The nexus account can describe the remaining strands. It cannot, by itself, say why the object whose state they once updated no longer holds.
+That is why the firm must be located at a higher level.
+The firm is not a contract. It is not a sum of contracts. It is not a legal fiction floating above contracts. It is the ladder-conditioned operational identity under which contracts, transactions, obligations, labor engagements, records, assets, and claims become mutually answerable as states of one continuing object.
+This does not make contract theory wrong. It makes contract theory local.
+Contract theory explains one major surface of firm life: the instruments through which obligations are specified, allocated, and enforced. The operational-identity account explains why those instruments can belong to a firm at all.
+In that sense, the present account does not defeat the nexus view by denying it. It defeats the overextension of the nexus view by relocating it.
+The nexus is real.
+It is not enough.
+5. The Minimum Economic Foundation
+The argument so far has treated the firm as a higher-order object, but that claim requires a foundation. A firm cannot be higher-order unless there are lower-order economic fields for it to hold together.
+The reader need not accept a complete Structural Flow account of economics in advance to follow the present argument. The immediate burden is narrower: exchange, credit, and labor can each occur without a firm, while a firm appears only when they update one continuing operational identity. 
+This paper relies on a prior structural result: economics has a minimum foundation composed of seven distinct objects across four levels. The full derivation of that foundation is not repeated here. Only the relevant portion is needed.
+At the first-order level, economics contains three activity fields:
+1. Exchange — reciprocal consequence-closing between unlike sides
+2. Credit — forward-bearing obligation that remains resolvable
+3. Labor — maintained, deployable productive capacity
+At the higher-order level, economics contains one ladder-conditioned object:
+4. Firm — the operational identity under which multiple first-order fields can be held as one continuing “it” across time
+At the substrate level, economics contains two carrier objects. “Substrate” here means a support layer that carries state, attribution, recognition, or claim-travel without becoming the firm itself:
+5. Integrated Record — identity-bearing, ordered continuity of state
+6. LIRI — Legal / Institutional Recognition Infrastructure, the framework through which claim-status travels and binds absent parties
+At the foundational level, economics contains one stock-condition object:
+7. RH — Resource-Holding / Asset-Bearing Condition, the standing condition of positional availability, or already-having
+This seven-object foundation matters because it prevents the firm from being asked to do work that belongs elsewhere. It also prevents other economic objects from being mistaken for the firm.
+Exchange is not the firm. Exchange is the field in which unlike sides close consequence through reciprocal transfer. A firm can exchange, but a transaction is not yet a firm.
+Credit is not the firm. Credit is the field in which forward-bearing obligation remains co-legible and resolvable. A firm can borrow, lend, owe, or be owed, but obligation is not yet a firm.
+Labor is not the firm. Labor is the field in which productive capacity is held as deployable, drawable, directable, interruptible, and releasable. A firm can engage labor, but productive capacity is not yet a firm.
+Integrated record is not the firm. The record carries the firm’s attributed state across time, but the record is not the operational identity whose state is being carried.
+LIRI is not the firm. Legal and institutional recognition can make claims travel beyond direct participants, but the travel of claim-status is not the same as the operational identity whose claims travel.
+RH is not the firm. Resource-holding supplies positional availability, the condition of already-having. A firm may hold assets or means, but standing stock is not itself the firm.
+These distinctions are not taxonomic decoration. They are necessary to avoid the classic flattenings. If the firm is collapsed into exchange, it becomes a market-boundary theory. If it is collapsed into credit or contract, it becomes a nexus theory. If it is collapsed into labor, it becomes a productive-organization theory. If it is collapsed into legal recognition, it becomes a legal-entity theory. If it is collapsed into accounting, it becomes a unit-of-account theory. If it is collapsed into RH, it becomes an asset-control theory.
+All of those accounts see something real. The seven-object foundation explains why none of them can be the whole firm.
+The firm appears only after exchange, credit, and labor are already available as coherent fields. It is not one of them. It is the higher-order object that holds them in cross-propagating relation.
+This is why the firm is called ladder-conditioned.
+A ladder-conditioned object is not merely another item in a list. It is an object whose entry condition is the achieved coherence of prior fields. The firm enters only when exchange, credit, and labor can be held under one operational identity strongly enough that updates in one field become relevant, constraining, and answerable across the others.
+The firm is therefore not the foundation of economics as such. It is one object inside the minimum foundation. But it is the first object in that foundation that reveals why economics cannot be reduced to first-order field activity alone.
+Exchange can occur without a firm.
+Credit can occur without a firm.
+Labor can occur without a firm.
+But a firm appears when exchange, credit, and labor are no longer merely nearby economic activities. They become surfaces of one continuing operational identity.
+That is the structural shift.
+6. The Firm as Ladder-Conditioned Operational Identity
+The firm is a ladder-conditioned higher-order economic object.
+Its entry condition is the achieved coherence of exchange, credit, and labor under one shared operational identity. This means the firm is not derived by adding a fourth first-order field. It is derived by asking what becomes possible once the first three fields can be held together as one continuing “it.”
+The answer is cross-field state.
+A transaction changes more than an exchange relation when it belongs to a firm. It changes the transactional position of the operational identity. That altered transactional position may affect credit capacity, obligation exposure, production planning, labor deployment, inventory, strategy, and future exchange.
+A credit event changes more than an obligation relation when it belongs to a firm. It changes the burden or claim condition of the operational identity. That altered obligation condition may affect hiring, production, investment, pricing, asset use, and future exchange.
+A labor event changes more than a capacity relation when it belongs to a firm. It changes the deployment condition of the operational identity. That altered deployment condition may affect what can be sold, what can be produced, what obligations can be satisfied, what contracts can be accepted, and what strategies remain available.
+The firm exists where these updates do not remain isolated.
+They cross-propagate through the same object.
+This is the core difference between a firm and a loose set of economic relations. In a loose set, exchange, credit, and labor may all be present, but they do not update one operational state. In a firm, they do. That is why the firm cannot be understood as mere aggregation. A pile of transactions, debts, contracts, workers, assets, records, and claims is not yet a firm. The firm is the condition under which those materials become states of one continuing operational identity.
+The three primary surfaces of the firm are therefore:
+1. Transactional position — the firm’s exchange-facing condition
+2. Obligation condition — the firm’s credit-facing burden or claim condition
+3. Deployment condition — the firm’s labor-facing drawable-capacity condition
+These surfaces are distinct, but they are not independent once firm-level identity holds. Each can constrain the others through the same continuing object.
+A large sale may improve the transactional position while increasing deployment pressure. New debt may expand current capacity while constraining future exchange. A labor shortage may limit the ability to satisfy obligations. A production failure may alter future credit terms. A successful investment may change what labor can be deployed and what exchange opportunities can be pursued.
+The point is not that every surface always determines every other surface in a simple way. The point is that each surface becomes answerable to the carried state of the same operational object.
+That answerability is what makes firm-state different from mere relation.
+A valid update on one firm surface becomes a prior condition that later action on the other surfaces must account for. The update does not dictate exactly what later action must be. It does not eliminate discretion, strategy, uncertainty, or judgment. But later action cannot lawfully proceed as though the update were absent.
+If the firm signs a supply agreement, later production, financing, and labor decisions must answer to that carried commitment. If the firm incurs debt, later exchange, investment, and deployment decisions must answer to that burden. If the firm engages labor, later transactions and obligations must answer to the capacity thereby made available or unavailable.
+This is why the firm is more than coordination. Coordination can occur locally, temporarily, or instrumentally. Firm identity requires that coordinated updates carry forward as answerable states of the same continuing object.
+This is also why the firm is more than hierarchy. Hierarchy is one way of directing deployment, but firm identity does not require the same hierarchy everywhere. A hierarchical corporation, a partnership, a worker cooperative, and a flat organization may all qualify as firms if exchange, credit, and labor update the same operational identity. Conversely, a hierarchy that does not hold those surfaces together as one operational object is not a firm merely because it issues commands.
+The firm is therefore not defined by command.
+It is defined by cross-field answerability.
+The integration product of the firm is the cross-surface constraint condition. This is not a fourth surface beside exchange, credit, and labor. It is the structural output of holding those surfaces together. The firm exists where transactional position, obligation condition, and deployment condition constrain one another through the same continuing identity in ways none of them would if they remained separate field events.
+A firm’s state is therefore not located in one place. It is not only in contracts, not only in assets, not only in accounts, not only in legal status, not only in workers, not only in hierarchy, and not only in market relations. It is the carried cross-field condition of the same operational “it.”
+That is why the firm can be hard to define from inside ordinary economic vocabulary. Most familiar definitions seize one surface because the surface is visible. The firm itself is the higher-order hold that makes the surfaces jointly operative.
+7. Definition and Answerability
+The formal definition can now be stated:
+A firm is a ladder-conditioned higher-order economic object: the cross-field-state-bearing operational identity under which already-coherent exchange, credit, and labor are bounded in cross-propagating relation, such that valid updates on one surface become answerable constraints on the same continuing identity across transactional position, obligation condition, and deployment condition.
+Several features of this definition are load-bearing.
+First, the firm is ladder-conditioned. It depends on prior fields. Exchange, credit, and labor must already be coherent enough to be held together. The firm is not a fourth peer field. It is a higher-order object built from the achieved coherence of lower-order fields.
+Second, the firm is cross-field-state-bearing. It does not merely contain exchange, credit, and labor relations. It carries their updates as states of one operational object.
+Third, the firm is an operational identity. This means the identity is not metaphysical substance, legal fiction alone, or verbal shorthand. It is the continuing object whose state remains active across economic action.
+Fourth, the firm is bounded. Not every transaction, obligation, or labor engagement near the firm belongs to it. The firm boundary distinguishes field events that update the operational identity from field events that remain outside it.
+Fifth, firm updates are answerable constraints. This phrase is precise. An answerable constraint is a structural update that later action on any firm surface must account for as a prior condition, without dictating the later action in advance.
+The last point is especially important.
+Answerability is not determinism. A firm that takes on debt may respond in many possible ways: expand production, cut costs, refinance, sell assets, raise prices, seek new revenue, or fail. The debt does not dictate one response. But it becomes a prior condition the firm must answer to. Later action cannot proceed as though the debt were not part of the firm’s carried state.
+The same is true of exchange and labor. A major sale, failed delivery, new contract, labor commitment, strike, production success, or workforce loss may not dictate a single path. But each can become a carried update to the same operational identity. Future action must answer to that update.
+This answerability is what distinguishes firm-state from mere information. Information may be known and ignored. Firm-state cannot simply be ignored without structural consequence. If a firm’s obligation condition changes, its transactional and deployment decisions may remain flexible, but they are no longer the same decisions they would have been before. If its deployment condition changes, its exchange and credit positions are affected even if no immediate legal document has changed. If its transactional position changes, its obligations and labor commitments may be easier or harder to carry.
+The operational identity is therefore constituted by carried, answerable state.
+This resolves the circularity problem. The firm is not the same “it” because it has been named as the same “it.” It is the same “it” because prior exchange, credit, and labor states have accumulated into one holdable operational condition, and later updates are received as updates to that condition.
+The firm is not outside its relations. It is not prior to them. But neither is it reducible to their current list.
+It is the continuing held condition through which relation-states become answerable as one object.
+This also explains why the firm’s continuity is compatible with change. If the firm changes contracts, labor arrangements, ownership, assets, legal form, or strategy while cross-field answerability continues, the firm may remain the same operational identity. If cross-field answerability breaks, the fields may remain but the firm fails.
+This is the cleanest way to state the object:
+A firm is the answerability-bearing “it” of economic life.
+That compression should not replace the formal definition. But it captures the definition’s practical force. The firm is the object that allows transactions, obligations, and labor engagements to update one continuing economic identity rather than remaining separate field events.
+The next question is how this definition behaves under pressure from cases that blur inherited firm boundaries: sole proprietors, shells, holding companies, franchises, platforms, contractor networks, and temporary ventures.
+8. Edge Cases
+A definition of the firm earns its strength not only by explaining ordinary cases, but by clarifying difficult ones. The most useful edge cases are those that separate the firm from nearby objects: the sole proprietor, the shell entity, the holding company, the franchise system, the platform, the contractor network, the joint venture, and the changing firm.
+These cases matter because they prevent the definition from hiding inside familiar corporate forms. If the firm is a structural object, it must be able to distinguish legal status from operational identity, asset ownership from firm-state, contract linkage from cross-field answerability, and coordination from firmhood.
+8.1 The Sole Proprietor
+A sole proprietor can qualify as a firm.
+This may sound counterintuitive if the firm is assumed to require corporate form, multiple employees, hierarchy, or legal separation from the owner. But none of those is structurally decisive.
+A sole proprietor may transact, incur obligations, deploy labor, keep records, hold resources, and preserve one continuing operational identity across time. A plumber, shopkeeper, consultant, farmer, or craftsperson may enter exchanges, bear debts, maintain equipment, schedule labor, develop customer relationships, and carry obligations forward as one operational “it.” The owner’s person and the firm’s operational identity may be tightly fused, but fusion is not absence.
+The relevant question is not whether the firm has many participants. The question is whether exchange, credit, and labor update one continuing operational identity.
+If they do, the sole proprietor is structurally firm-like and may qualify as a firm under this definition. If activity remains episodic, unrecorded, non-continuous, or not held as an operational state across time, then the condition weakens. The difference is not size. The difference is cross-field answerability.
+This result should be owned rather than avoided. A theory that cannot explain small firms, owner-operated enterprises, or informal businesses is too dependent on mature corporate form.
+8.2 The Shell Entity
+A shell entity shows the opposite problem.
+A shell may possess legal existence, claim-status, accounts, ownership interests, or contractual capacity. It may be registered. It may be able to sue or be sued. It may hold assets. It may appear in records. But if it does not hold exchange, credit, and labor in cross-propagating relation as one operational identity, it is not a firm in the full structural sense.
+This distinction matters because legal recognition can outlive operational life. A shell may retain legal personhood after the firm has ceased to function as a cross-field operational object. It may remain a locus for claims, liabilities, ownership, or tax treatment. It may remain important. But it is no longer doing the full work of a firm.
+The legal shell belongs primarily to the recognition and claim-travel surface. It may also carry RH if it holds assets. But legal personality and resource-holding do not by themselves produce firmhood.
+A shell is therefore not proof that the firm is a legal fiction. It is proof that legal form can remain after operational identity has thinned or failed.
+8.3 The Holding Company
+A pure holding company clarifies the distinction between RH and firm identity.
+A holding company may own shares, assets, subsidiaries, claims, or rights. It may be legally recognized and institutionally operative. It may carry claim-status through legal and institutional infrastructure. But ownership alone is not the firm.
+If the holding company’s own exchange, credit, and labor surfaces are not in cross-propagating relation, then it is primarily a resource-holding and claim-status vehicle. It may stand over means. It may route ownership. It may mediate control. But it is not necessarily a firm in the full structural sense.
+The analysis changes if the holding company actively manages operations through its own cross-field state. If it borrows, hires, directs, transacts, allocates resources, manages subsidiaries as part of one operational state, and bears answerability across those surfaces, then it may itself qualify as a firm. But this is not true merely because it owns firms.
+The distinction is simple:
+Owning firms is not the same as being the operational identity whose exchange, credit, and labor update one state.
+The holding company case therefore protects the firm definition from collapsing into asset ownership.
+8.4 The Franchise System
+A franchise system is harder because it deliberately links operational identities.
+The franchisor may be a firm. Each franchisee may also be a firm. The system may share brand, standards, supply arrangements, training, technology, advertising, legal obligations, and quality-control regimes. Yet this does not automatically make the entire franchise system one firm.
+Usually, the franchisor and franchisees are distinct operational identities connected through contract, brand, record, and claim-status structures. The franchisee’s transactions, obligations, and labor engagements update the franchisee’s operational state. The franchisor’s transactions, obligations, and labor engagements update the franchisor’s operational state. The relation between them is real, but relation is not identity.
+The franchise system becomes one firm only if one operational identity bears cross-field answerability across the relevant surfaces. Brand unity is not enough. Contractual linkage is not enough. Shared standards are not enough. Legal relation is not enough.
+This conclusion is useful because it prevents the theory from mistaking network coherence for firm identity. A system can be economically integrated, legally structured, and operationally coordinated without being one firm.
+The question remains: whose state is being updated?
+If the answer is many operational identities linked by contract, then the system is a network of firms. If the answer is one operational identity whose transactional position, obligation condition, and deployment condition carry across the whole structure, then the system may be one firm.
+8.5 The Platform and Gig-Work Case
+Platform firms create the sharpest contemporary pressure because they often coordinate exchange, condition access to work, route demand, structure pricing, and shape labor deployment while denying conventional employment relation.
+The definition must therefore avoid a simple legal-status test. Whether platform workers are formally employees or independent contractors is not decisive at the structural level. Legal classification matters, but it does not settle the firm question.
+The structural question is whether the platform maintains a deployment condition.
+A platform maintains a deployment condition when productive capacity is made drawable, directable, interruptible, rankable, routable, price-conditioned, access-conditioned, or reputation-conditioned through the platform’s operational identity. In such a case, labor may not be “inside” the firm in the traditional employment sense, but the platform still conditions deployable capacity. It can make capacity available, unavailable, visible, invisible, prioritized, delayed, priced, punished, or rewarded through its own operational state.
+If the platform’s transactions, obligations, and deployment condition update one continuing operational identity, then it qualifies as a firm under this definition. The fact that the labor surface is legally mediated through independent-contractor form does not eliminate the deployment condition.
+But not every platform is a firm in this full sense.
+Some platforms may merely coordinate independent exchanges without bearing a real deployment condition. They may provide matching, listing, payments, reputation, or discovery infrastructure without holding labor capacity as a drawable or conditionable surface of their own operational state. Such platforms are adjacent to the firm but not necessarily firms as defined here.
+The distinction is not whether the platform calls workers employees. The distinction is whether the platform’s operational identity bears cross-field answerability for deployment.
+This case shows why the definition is useful. It separates legal classification from structural role. It also gives a clearer way to ask what platforms are doing when they deny employment while still controlling access, pricing, ranking, allocation, or work visibility.
+The platform case does not weaken the firm definition. It shows why the definition is needed.
+8.6 Contractor Networks
+A contractor network may resemble a firm without becoming one.
+A group of independent contractors may coordinate around projects, clients, referrals, shared tools, or common standards. They may transact together, share information, and create recurring patterns of cooperation. But unless those transactions, obligations, and labor engagements update one operational identity, the network remains a network rather than a firm.
+The test is not whether the participants cooperate. The test is whether their activity becomes answerable through one continuing object.
+If each contractor bears their own transactional position, obligation condition, and deployment condition, then the network is not one firm. It may be stable. It may be productive. It may be valuable. But it does not possess a single firm-state.
+If, however, the network creates one operational identity that receives contracts, bears obligations, deploys labor, carries records, and becomes the answerable object across those surfaces, then it may cross the threshold into firmhood.
+This case matters because it distinguishes collaboration from firm identity.
+All firms coordinate. Not all coordination is a firm.
+8.7 The Joint Venture
+A joint venture shows that firm identity need not be permanent.
+A temporary joint venture can qualify as a firm during the period in which exchange, credit, and labor update one operational identity. The venture may be formed for one project, one market, one production run, or one defined transaction sequence. Its temporariness does not disqualify it.
+Firm identity is a temporal held condition. It requires continuity while it holds, not permanence without end.
+The joint venture exists as a firm if it has its own transactional position, obligation condition, and deployment condition. It may contract, borrow, allocate labor, manage resources, and bear responsibility as one operational object. When the venture dissolves, the firm may end. That is not a contradiction. It is the ordinary life cycle of a temporary firm.
+This case clarifies that “continuing identity” does not mean eternal identity. It means identity carried across relevant updates for the duration of the operational object.
+8.8 The Changing Firm
+A firm can change deeply without failing.
+It may change name, ownership, legal form, accounting system, assets, employees, managers, suppliers, customers, markets, products, technology, governance structure, or strategy. None of these changes automatically ends the firm.
+The question is whether cross-field answerability continues.
+If the firm’s transactional position, obligation condition, and deployment condition remain carried as states of one operational identity, then change has occurred within the firm. If those surfaces no longer update the same object, the firm has failed or split.
+This distinction matters in mergers, acquisitions, restructurings, bankruptcies, reorganizations, spin-offs, and conversions. Legal form may change while operational identity continues. Conversely, legal continuity may remain while operational identity disappears.
+A firm is not identical to its current contracts, owners, assets, employees, records, or legal shell. It is the continuing held condition through which those surfaces become answerable as one operational state.
+That is why the firm can survive major change.
+It is also why the firm can fail while many visible pieces remain.
+9. Firm Failure
+The failure signature of an object is often the clearest way to see what the object is.
+The firm fails when exchange, credit, and labor may survive, but their updates no longer become answerable constraints on the same operational “it.”
+This is not the same as market failure. Exchange may continue. Buyers and sellers may still transact. Prices may still be posted. Transfers may still close. What fails is not exchange as such, but the higher-order condition under which exchange updates the same firm-state as credit and labor.
+It is not the same as credit failure. Obligations may remain. Debts may still be enforceable. Claims may still exist. Creditors may still pursue recovery. What fails is not obligation as such, but the condition under which obligation remains a surface of one continuing operational identity.
+It is not the same as labor failure. Workers may still have skills. Productive capacity may still exist. Tasks may still be performed. What fails is not labor as such, but the condition under which labor deployment updates the same operational object as transactions and obligations.
+It is not the same as accounting failure. Records may be incomplete, inaccurate, fragmented, or lost, and that may damage firm-state. But integrated-record failure is the loss of the carrier by which state continuity remains legible. Firm failure is the loss of the operational identity whose state is being carried.
+It is not the same as legal dissolution. A legal entity may dissolve when a firm still has operational continuity elsewhere. Or a legal shell may remain after the firm has ceased functioning. Legal form is a powerful recognition surface, but it is not identical to the firm.
+It is not the same as asset loss. A firm may sell assets, lose assets, or operate asset-light while remaining a firm. RH matters because positional availability matters, but asset-holding is not the firm’s defining condition.
+Firm failure is more specific.
+It is the loss or severe degradation of the held condition under which exchange, credit, and labor remain bounded as answerable states of one cross-field-state-bearing operational identity.
+In compressed form:
+When the firm fails, the fields may remain, but the same “it” no longer carries across them.
+This failure can appear in several ways.
+The first is orphaning. Transactions, obligations, and labor engagements continue, but they no longer update the same operational identity. Each surface becomes separately attributable or only nominally linked.
+The second is shell persistence. Legal status, registration, ownership, or accounting residue remains, but operational answerability across exchange, credit, and labor is gone. The name survives; the firm does not.
+The third is record fragmentation. The operational identity may have depended on integrated state-carry, but the record no longer preserves attributable continuity strongly enough for cross-field updates to remain legible. In that case, integrated-record failure may contribute to firm failure, though the two failures remain distinct.
+The fourth is surface capture. One surface begins to dominate the others so completely that the firm is treated as only a contract nexus, only an asset pool, only a legal shell, only a hierarchy, or only a production unit. The other surfaces may continue, but they no longer constrain one another through one operational identity.
+The fifth is network dispersion. A firm-like arrangement decomposes into contractors, subsidiaries, franchisees, projects, or platforms whose relations remain economically connected but no longer update one shared state.
+These failures can be gradual. A firm may weaken before it dissolves. Cross-field answerability can thin, become unstable, or survive only in limited zones. But the defining failure remains the same: the same operational “it” stops carrying across the surfaces.
+This failure signature is also what confirms the firm’s level.
+If exchange, credit, and labor can survive while the firm fails, then the firm is not identical to any one of them. If legal recognition, accounting records, and asset-holding can survive while the firm fails, then the firm is not identical to those substrate or foundational objects either.
+The firm is the higher-order hold.
+Its failure is the collapse of that hold.
+That is why the firm is not merely another economic relation. It is the object through which multiple relations become states of one continuing operational identity.
+Once this is visible, classic theories of the firm can be used more precisely. They no longer need to compete as total definitions. They can be relocated as accounts of the surfaces through which the firm operates, persists, changes, and fails.
+10. What Classic Theories Gain
+The purpose of this account is not to discard classic theories of the firm. It is to make them easier to use.
+A theory becomes weaker when it is forced to carry more than its object can bear. Transaction-cost theory becomes overextended when the firm is treated as nothing but a market-substitution device. Contract theory becomes overextended when the firm is treated as nothing but a nexus. Property-rights theory becomes overextended when asset control is made to carry the full object. Legal-entity theory becomes overextended when recognition is mistaken for operational identity. Capability theory becomes overextended when productive capacity is treated as the whole firm.
+Relocation helps because it lets each theory keep its truth without becoming total.
+Transaction-cost theory gains a cleaner object. The market / firm boundary is not the whole firm. It is the exchange-facing pressure surface where some interactions remain outside the operational identity while others are held within it. The question is not simply whether activity is coordinated by market or hierarchy. The sharper question is whether the relevant update becomes part of the same cross-field operational state.
+Contract theory gains a cleaner limit. Contracts are not denied. They are placed. They are instruments by which obligations, permissions, claims, remedies, and expectations become specified. But the existence of contractual strands does not itself explain why those strands update one object. A contract belongs to firm-state when it changes the answerable condition of the same operational identity.
+Property-rights theory gains a cleaner location. Residual control matters because not every future contingency can be fully specified in advance. Control over assets and decision space can determine how the firm answers to future uncertainty. But control matters as part of the firm’s cross-field state, not as the entire object. Asset control belongs at the intersection of positional availability, claim-status, and operational boundary.
+Legal-entity theory gains a cleaner role. Legal recognition is not dismissed as mere form. It is one of the major ways firm-state travels, binds absent parties, and becomes institutionally legible. But legal recognition does not create the firm by itself. It thickens, stabilizes, and transmits claim-status around an operational identity that may be stronger, weaker, absent, dormant, or already failed.
+Accounting-entity theory gains a cleaner burden. The accounting view is right that the firm needs a unit whose state can be recorded. But the record is not the object. It is the carrier by which attributed state remains ordered, legible, contestable, and continuous. The firm is the identity whose state the record carries.
+Capability and routines theories gain a cleaner surface. Firms do preserve productive capacity, routines, skills, habits, memory, and organizational know-how. But those capacities matter as part of the deployment condition of an operational identity. The firm is not productive capacity alone. It is the object for which such capacity becomes available, constrained, and answerable across exchange and credit as well.
+Hierarchy and authority theories gain a cleaner scope. Authority matters when labor deployment must be directed under one operational identity. But authority is not the universal essence of the firm. Some firms are hierarchical. Some are flatter. Some are cooperative. Some are founder-centered. Some are protocol-mediated. The structural question is not whether command exists in a particular form. The question is whether deployment is held as a surface of the same operational state as transactions and obligations.
+Relocation therefore improves the classic theories by reducing their burden.
+Each theory can explain what it sees best.
+None has to pretend that its surface is the whole object.
+11. What the Definition Explains for Free
+A good definition should make hard cases clearer without requiring a new theory for each case.
+The operational-identity definition does that.
+It explains why firms can survive outsourcing. Outsourcing may move some labor or production outside formal employment, but the firm may remain if the outsourced relation still updates the firm’s transactional position, obligation condition, or deployment condition through one continuing operational identity. Outsourcing changes the boundary. It does not necessarily dissolve the firm.
+It explains why firms can become asset-light. A firm need not own every productive asset it uses. Asset ownership matters, but a firm can remain a firm if it continues to hold exchange, credit, and labor in cross-propagating relation. Asset-light firms are difficult only if the firm is defined as asset ownership. They are less difficult if the firm is defined as operational identity.
+It explains why firms can franchise without becoming one giant firm. Franchise systems may create strong brand, contractual, training, supply, and recognition structures. But each franchisee may remain its own operational identity. The system can be highly coordinated without becoming one firm unless one identity bears the cross-field answerability.
+It explains why legal restructuring does not automatically destroy firm identity. A firm may change legal form, merge, convert, reorganize, or transfer ownership while preserving operational answerability. Legal identity matters. It is not irrelevant. But structural firm continuity depends on whether the same operational “it” continues to carry across the surfaces.
+It explains why a dormant shell is not a firm in the full sense. A shell may retain registration, assets, claims, accounts, or contracts. But if exchange, credit, and labor no longer update one operational identity, the shell is not doing the structural work of a firm. It is residue, vehicle, or instrument, not full firm.
+It explains why platforms are hard. Platforms often deny traditional labor relation while still conditioning productive capacity. The definition makes the right question visible: does the platform maintain a deployment condition? If it routes, ranks, prices, interrupts, grants access, restricts visibility, or otherwise conditions productive capacity through its own operational state, the labor surface may be structurally present even when legal employment is denied. If it merely matches independent parties without bearing deployment answerability, the platform may be adjacent to firmhood without fully satisfying it.
+It explains why firms can persist through ownership change. Owners may change while the operational identity continues. That is hard to explain if the firm is identified too closely with asset control or residual ownership. It is easier if ownership is one surface that can alter firm-state without necessarily exhausting it.
+It explains why firms can fail before they disappear. A firm may still have a name, accounts, contracts, liabilities, assets, and legal status while no longer holding exchange, credit, and labor as answerable states of one operational identity. The visible pieces can remain after the higher-order hold collapses.
+It explains why some informal enterprises deserve to be treated as firms. Formal registration may be absent or thin, but if transactions, obligations, labor engagements, records, and carried state update one operational identity, the firm-object is present in structurally meaningful form.
+It explains why firm boundaries are not only legal boundaries. A firm boundary distinguishes what updates the operational identity from what remains outside it. Law may mark, stabilize, contest, or misdescribe that boundary. It does not exhaust the boundary.
+These are not side benefits. They are tests of the definition.
+A firm is not whatever the law calls a firm. It is not whatever owns assets. It is not whatever signs contracts. It is not whatever employs people. It is not whatever coordinates production. It is not whatever appears in accounts.
+A firm is the operational identity through which those surfaces become answerable as one continuing state.
+That is why the definition travels.
+12. Why This Matters
+The theory of the firm matters because the firm is where much of economic life becomes organized, carried, constrained, and made durable.
+If the firm is mislocated, many downstream questions become harder than they need to be. Boundary questions become unstable. Platform questions become confused. Legal status is overread or underread. Contract theory is forced to carry operational identity. Asset control is made too central or too peripheral. Labor classification becomes a proxy for deeper deployment questions. Accounting is mistaken for the object it records. Governance becomes either essence or afterthought.
+A better object does not solve every downstream question. But it gives those questions a cleaner surface.
+The operational-identity account helps because it separates three things that are often fused.
+First, it separates field activity from firm identity. Exchange, credit, and labor can each occur outside firms. The firm appears only when those fields update one continuing operational object.
+Second, it separates supporting substrates from the firm itself. Integrated records and legal recognition matter deeply, but they support, carry, stabilize, and transmit firm-state. They are not the firm in full.
+Third, it separates surface theories from object theory. Transaction cost, contract, property rights, legal entity, accounting, capability, and hierarchy accounts are not erased. They are located. Each becomes more precise once it no longer has to be the whole firm.
+The result is not a replacement for economics. It is a tool inside economics.
+The tool is simple:
+Ask what updates the same operational “it.”
+When a transaction occurs, whose transactional position changes?
+When an obligation is created, whose obligation condition changes?
+When labor is engaged, whose deployment condition changes?
+When an asset is acquired, whose future action-space changes?
+When a record is entered, whose state is being carried?
+When a legal claim travels, whose claim-status is moving?
+When a platform routes work, whose deployment condition is being controlled?
+When a restructuring occurs, does the same cross-field answerability continue?
+When a firm fails, what remains, and what no longer carries?
+These questions do not eliminate local economic analysis. They discipline it. They help the theorist avoid asking one surface to carry the whole object.
+The wound in the theory of the firm has not been that economists lacked insight. The wound has been that the object was difficult to locate. The classic accounts are powerful because they were touching real surfaces. They became incomplete only when surface was asked to become whole.
+The firm as operational identity lets those surfaces be seen together.
+13. Closing
+The firm is not one of its surfaces.
+It is not market substitution alone. It is not contract alone. It is not property alone. It is not legal personhood alone. It is not accounting continuity alone. It is not hierarchy alone. It is not productive capacity alone.
+Those are real surfaces. They matter.
+But the firm is the higher-order economic object that makes them jointly answerable.
+A firm exists where exchange, credit, and labor are held in cross-propagating relation under one continuing operational identity, so that valid updates on one surface become answerable constraints on the same “it” across transactional position, obligation condition, and deployment condition.
+That definition does not make prior theory useless. It makes prior theory easier to place.
+Classic theories gave accurate surfaces. The present account gives the object those surfaces belong to.
+The theory of the firm can therefore be reopened in a narrower and more useful way: not by asking which classic account should win, but by asking how each account describes a surface of the same higher-order object.
+That object is the firm.
+The firm is the answerability-bearing “it” of economic life.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI Use Disclosure
+This artifact was developed with assistance from AI tools for structural review, drafting support, proofreading, organization, and refinement. The author reviewed, revised, and remains responsible for the final content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Firm as Operational Identity
+A Structural Relocation of the Theory of the Firm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+
+
+
+
+Rick
